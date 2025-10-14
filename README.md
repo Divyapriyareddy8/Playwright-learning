@@ -25,4 +25,10 @@ test("actual test name", **async** function(){#code in this});
 
 >test("second test",async()=>{}); -> anonymous function
 
+Config.js will be runner - where we give all teh details.
+By default timeout for each TC is 30sec - it will wait for 30 sec to display all the webpage elements =autowait capability.
+timeouts we mention in the config.js
+expect{timeouts:} = these are timeouts for assertion level 
+
+
 

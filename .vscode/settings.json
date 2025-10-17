@@ -1,0 +1,21 @@
+{
+    "editor.quickSuggestionsDelay": 10,
+    "editor.suggest.selectionMode": "never",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.showToolbar": "never",
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.hover.enabled": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "editor.inlineSuggest.suppressInSnippetMode": false,
+    "terminal.integrated.suggest.inlineSuggestion": "off",
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "editor.inlineSuggest.triggerCommandOnProviderChange": false,
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "javascript.inlayHints.parameterNames.enabled": "all"
+}
